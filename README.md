@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=PHP Programmer" alt="Typing SVG" />
+</div>
 <!--
 **gohzhixiang/gohzhixiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
